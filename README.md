@@ -1,6 +1,12 @@
-# The Demo Day Context Pack
+<img src="assets/banner.svg" alt="The Demo Day Context Pack — 22 tools, one event, structured so your AI can answer questions about it" width="100%">
+
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-489574) ![Tools covered](https://img.shields.io/badge/demos_covered-22%2F22-D86A4F) ![Works with](https://img.shields.io/badge/works_with-Claude_·_ChatGPT_·_Cursor-514B45)
 
 **A portable context layer for the Anonymous GTM Tech Demo Day, hosted by Brendan Short of [The Signal](https://www.thesignal.club) on June 10, 2026. 22 tools demoed by their customers, 3 minutes each. This folder is the event, structured so your AI can answer questions about it.**
+
+**Try it in 60 seconds:** download [the zip](../../releases/latest), drop it into Claude or ChatGPT, and paste:
+
+> Read tools/INDEX.md and patterns/macro-patterns.md from the files I just gave you. In plain English: what were the 5 most interesting things about this event, and which 3 tools should I look at first if I run sales or marketing at a B2B software company? Cite the files you used.
 
 ## What this is
 
@@ -8,7 +14,7 @@ This is not a write-up. It is a **context pack**: a folder of structured, proven
 
 The event moved fast: 22 demos in two hours, names misheard, domains guessed, two unrelated companies that sound identical. During the event, attendees asked the host for exactly this: a tool list with correct names and domains, and help keeping up and evaluating. This pack is that, plus the structure to query it. Ask it to triage the 22 against *your* stack, compare what a vendor demoed against what their website claims, or map who complements whom.
 
-It also doubles as a small demonstration: when an event's source material is structured into plain files, any AI tool can act as an analyst on it. The format itself is part of the point.
+It also doubles as a small demonstration: when an event's source material is structured into plain files, any AI tool can act as an analyst on it. There's a short note at the end about why I care about that.
 
 ## How to use it (3 steps)
 
@@ -22,6 +28,8 @@ It also doubles as a small demonstration: when an event's source material is str
 
 ```
 README.md                      ← you are here
+LICENSE                        ← CC BY 4.0, in plain words
+assets/                        ← banner art
 SCHEMA.md                      ← the per-tool schema, documented (every field provenance-tagged)
 tools/INDEX.md                 ← one-page triage table: cluster, pricing, MCP, per tool
 tools/{slug}.md                ← 22 files, identical structure: positioning as stated on
@@ -53,7 +61,7 @@ This pack was built from a **live transcript of the event** and the **vendors' p
 - **On the count:** pre-event materials variously said 20 and 27 companies; **22 demoed on the day**, and the pack covers those 22.
 - **Claimed metrics are presenter-stated and uncontrolled.** The pack reports them with attribution; it does not verify them.
 - **All pricing is website-sourced.** No presenter mentioned pricing on stage. Pricing pages change; check before deciding.
-- **Corrections are welcome and wanted.** If you presented, built, or bought one of these tools and something here is wrong, email **hi@derrickhicks.me** and it will be fixed and noted. If you recognize your own anonymized words in `signals/` and want them removed or reworded, write to the same address, no questions asked.
+- **Corrections are welcome and wanted.** If you presented, built, or bought one of these tools and something here is wrong, email **derrick@getmemoryengine.ai** and it will be fixed and noted. If you recognize your own anonymized words in `signals/` and want them removed or reworded, write to the same address, no questions asked.
 
 ## Privacy
 
@@ -63,10 +71,16 @@ The event promised attendees anonymity, and this pack keeps that promise: **no a
 
 This is a **point-in-time artifact**: the event as it happened on June 10, 2026, and the public web as it stood that day. Products will keep shipping, pricing will change, and the vocabulary will keep moving. There is no maintenance commitment. The pack will not be updated as the field moves. If you're reading this six months later, treat it as a structured record of that day. (Corrections of *fact*, like a misheard name or a wrong domain, are the one exception and are always honored. That's different from keeping pace with the field.)
 
+## Why I made this
+
+Honest answer: I started these notes for myself. I wanted a read on where this market is heading, and I wanted a context asset I could reuse while thinking about my own business. Then the chat kept asking for a tool list and a way to keep up, and I realized the thing I was building might be useful to everyone who was there.
+
+The reason I could turn one transcript and a folder of screenshots into this repo in about a day is that the system behind it already existed. That's my work at [Memory Engine](https://getmemoryengine.ai): I help companies own their context, meaning the structured, durable layer of what your business knows, the layer every AI tool gets smarter by sitting on. Most of the tools that demoed at this event get better when they run on context you own too. This pack is a small, fast example of the idea. If it's useful to you, that's the idea doing the work, not me.
+
 ## License & attribution
 
 Licensed **CC-BY-4.0** (see [LICENSE](LICENSE)). You can use it, quote it, and build on it, with attribution.
 
-Assembled by Derrick Hicks ([Memory Engine](https://getmemoryengine.ai)), using the same structured-files approach the pack demonstrates.
+Assembled by Derrick Hicks ([Memory Engine](https://getmemoryengine.ai)).
 
 Event by Brendan Short / [The Signal](https://www.thesignal.club), shared here with his blessing. The demos, the format, and the room are his work.

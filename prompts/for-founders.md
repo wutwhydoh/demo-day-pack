@@ -2,6 +2,10 @@
 
 Load this pack into your AI tool (Claude, ChatGPT, Cursor, or anything that reads files), then paste a prompt. Replace bracketed parts.
 
+## 0. Instant read on your own demo (one blank)
+
+> I'm with [tool name]. Read my file in `tools/`, my excerpt in `source-excerpts/`, and every mention of me in `patterns/` and `signals/`. Tell me straight: how did my demo land, what category language am I sharing with competitors in this room, and what's the one thing in my file I should be glad is on the record?
+
 ## 1. Homepage vs. the patterns that landed
 
 > Here is my homepage copy: [paste hero, subhead, section heads]. Read `patterns/macro-patterns.md` and `patterns/vocabulary-map.md`. Tell me: (a) which side of the signals/context vocabulary split my copy sits on, and whether that looks intentional; (b) whether my proof points match the anatomy of the proof-frames that landed (one baseline, one after, owner's units); (c) where my language overlaps with terms multiple competitors at this event already use.

@@ -2,6 +2,10 @@
 
 Load this pack into your AI tool (Claude, ChatGPT, Cursor, or anything that reads files), then paste a prompt. Replace bracketed parts. If you felt "lost in a Lego shop" during the event, these are for you.
 
+## 0. Instant tour (nothing to fill in)
+
+> Read `tools/INDEX.md`, `patterns/macro-patterns.md`, and `signals/audience-signals.md`. Give me the event in five minutes: the real clusters, the patterns with their evidence counts, what the audience reacted to, and the three tools you'd want to know more about if you worked in B2B sales or marketing. Cite the files you used.
+
 ## 1. Stack-fit triage across the 22
 
 > My company: [size, motion (PLG/sales-led), ICP, deal size]. My current stack: [CRM, enrichment, outreach, etc.]. My biggest GTM bottleneck right now: [one sentence]. Read all 22 files in `tools/` plus `patterns/adjacency-map.md` (or start from `tools/INDEX.md`, the one-page cluster/pricing/MCP table, as the fast path). Shortlist the 3–5 tools most worth a demo for *me*, say which cluster each fills, which would overlap with something I already pay for, and which are choose-between pairs where I should only pick one.
