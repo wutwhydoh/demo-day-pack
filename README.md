@@ -73,9 +73,9 @@ This is a **point-in-time artifact**: the event as it happened on June 10, 2026,
 
 ## Why I made this
 
-Honest answer: I started these notes for myself. I wanted a read on where this market is heading, and I wanted a context asset I could reuse while thinking about my own business. Then the chat kept asking for a tool list and a way to keep up, and I realized the thing I was building might be useful to everyone who was there.
+I started taking notes for myself. I wanted a read on where this market is heading, and I wanted a context asset I could reuse while thinking about my own business. Then the chat kept asking for a tool list and a way to keep up, and I realized the thing I was building might be useful to everyone who was there.
 
-The reason I could turn one transcript and a folder of screenshots into this repo in about a day is that the system behind it already existed. That's my work at [Memory Engine](https://getmemoryengine.ai): I help companies own their context, meaning the structured, durable layer of what your business knows, the layer every AI tool gets smarter by sitting on. Most of the tools that demoed at this event get better when they run on context you own too. This pack is a small, fast example of the idea. If it's useful to you, that's the idea doing the work, not me.
+The reason I could turn one transcript and a folder of screenshots into this repo in about a day is that the system behind it already existed. That's my work at [Memory Engine](https://getmemoryengine.ai): I help companies own their context, meaning the structured, durable layer of what your business knows, the layer every AI tool gets smarter by sitting on. Most of the tools that demoed at this event get better when they run on context you own too. This pack is a small, fast example of the idea.
 
 ## License & attribution
 
