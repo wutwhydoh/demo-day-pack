@@ -1,0 +1,14 @@
+# Docket — demo excerpt (presenter speech + agent's spoken replies)
+
+Anonymous GTM Tech Demo Day by The Signal · 2026-06-10 · Demo #6 of 22 · Presenter: Scott Henderson (Galileo Financial Technologies)
+Cleaned from the event transcript: host stripped; obvious speech-to-text garble corrected in brackets. "Gala" is the customer's deployed agent.
+
+> Swan seems really cool, so that's a hard one to follow. But I'm also excited to share docket. I work for Galileo financial technologies. We're an API first B2B fintech platform. We're actually owned by sofi and currently going through a brand transition where we'll become part of the broader sofi company. And what we've done is built not just, you know, an AI chatbot, but more of like an AI agent that can assist visitors in what we actually do. We sell a very complex product that takes months to close. And so we wanted to try to alleviate the time it takes for our prospects to understand what we do and get off the ground. So I'm going to go ahead and click this here, and then click talk to an agent. A couple things about this real quick: it's got a deep knowledge base about what we do, but it's also multilingual. We support multiple geographies.
+>
+> [Gala, the agent:] "Hi, I am gala, Galileo's website concierge. A transcript of this conversation will be recorded. Would you like an overview of the Galileo solution, or do you have a specific question?"
+> [Presenter:] "Hey, gala. I would like to know how to launch a debit card program fast."
+> [Gala:] "Thanks for reaching out. Galileo can help established fintechs, brands and financial institutions launch debit programs in a few months, not years, with API driven card issuing, processing and digital banking infrastructure. The fastest path usually comes from narrowing scope early: define your customer, choose virtual or physical cards, align on a sponsor bank model and keep launch features focused for phase one. Strong testing and operational readiness are important, since rushing tends to slow programs down later. To point you in the right direction, what type of organization are you with — a fintech, financial institution or brand?"
+> [Presenter:] "Great. I would also like to know if you can support a different country."
+> [Gala replies in Spanish — support for North America, Mexico and Colombia, challenger bank use cases.]
+>
+> All right, so that's a very high level demo of the product. Docket's been awesome for us. We've seen a big increase in lead conversion. It also qualifies the leads — we're sending information into our CRM about the summary of the lead, what they're looking for. So it helps save time on that first initial SDR call. We just stood this up a couple months ago, so we're fine tuning it and always making improvements. But this is just the beginning for us.
