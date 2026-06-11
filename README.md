@@ -4,7 +4,7 @@
 
 ## What this is
 
-This is not a write-up. It is a **context pack**: a folder of structured, provenance-tagged files covering every demo, every vendor's public website, the cross-demo patterns, and an anonymized read on the audience. You don't read it cover to cover. You drop the folder (or the zip) into Claude, ChatGPT, Cursor, or any AI tool that reads files, and ask it questions.
+This is not a write-up. It is a **context pack**: a folder of structured, provenance-tagged files covering every demo, every vendor's public website, the cross-demo patterns, and an anonymized read on the audience. You don't read it cover to cover. You drop the repo link (or the zipped folder) into Claude, ChatGPT, Cursor, or any AI tool that reads files, and ask it questions.
 
 The event moved fast: 22 demos in two hours, names misheard, domains guessed, two unrelated companies that sound identical. During the event, attendees asked the host for exactly this: a tool list with correct names and domains, and help keeping up and evaluating. This pack is that, plus the structure to query it. Ask it to triage the 22 against *your* stack, compare what a vendor demoed against what their website claims, or map who complements whom.
 
