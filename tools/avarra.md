@@ -8,9 +8,9 @@
 
 **Category language [demo][site]:** "Sim" / "custom sims," "Coach Kate" (the named AI coach persona), "run rate" [demo]; "AI Training & Role Playing," ramp "in weeks not quarters" [site].
 
-**Claimed proof / metrics [demo]:** The headline metric of the event: "Our average first year run rate before using Avarra was about $22,000. After using Avarra, up through Q3 of our fiscal year, our average run rate for new hires is about $96,000 ARR." Nine months of use across all 70–80 sales reps. (Caveat: a before/after comparison as stated on stage, with no baseline adjustment described — read as directional, not controlled.)
+**Claimed proof / metrics [demo]:** The headline metric of the event: "Our average first year run rate before using Avarra was about $22,000. After using Avarra, up through Q3 of our fiscal year, our average run rate for new hires is about $96,000 ARR." Nine months of use across all 70–80 sales reps. (Caveat: a before/after comparison as stated on stage, with no baseline adjustment described, so read as directional, not controlled.)
 
-**Demo narrative (compressed) [demo]:** The only pre-recorded demo of the day: snippets of a real Paychex associate's 9-minute session with Coach Kate. The associate ran a simulated benefits-discovery call against an AI prospect persona, probing the business impact of losing an engineer to better benefits; Coach Kate then coached — naming what went well (impact follow-up questioning) and what was missed (recruitment challenges, HR technology as an unexplored pain point) — and offered to go deeper.
+**Demo narrative (compressed) [demo]:** The only pre-recorded demo of the day: snippets of a real Paychex associate's 9-minute session with Coach Kate. The associate ran a simulated benefits-discovery call against an AI prospect persona, probing the business impact of losing an engineer to better benefits. Coach Kate then coached, naming what went well (impact follow-up questioning) and what was missed (recruitment challenges, HR technology as an unexplored pain point), and offered to go deeper.
 
 **Pricing model [site]:** Sales-led / demo-gated; no pricing page. ROI "Calculator" in nav.
 
@@ -18,4 +18,4 @@
 
 **Funding [site]:** $8M seed led by Lightspeed Venture Partners (GTM Fund, Firsthand Alliance participating); exited stealth Oct 2024.
 
-**Demo vs website:** Aligned — the site's "weeks not quarters" ramp promise is the marketing form of the run-rate story told on stage.
+**Demo vs website:** Aligned: the site's "weeks not quarters" ramp promise is the marketing form of the run-rate story told on stage.

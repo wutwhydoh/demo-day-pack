@@ -8,14 +8,14 @@
 
 **Category language [demo][site]:** "Org chart" (live, per-account), "champions, influencers, detractors," "suggested contacts," "sharing mode," "warm connections," "ghost email" [demo]; "Relationship Intelligence," "multithreading coverage," "buying groups are bigger than your org chart" [site].
 
-**Claimed proof / metrics [demo]:** Org chart for a 10,000+-employee semiconductor company built "within an hour" vs ~5 hours manually. Sharing-mode anecdote: an enterprise rep validated an org chart live with a champion and added 10 new contacts on one call. (Caveat: comparisons as stated on stage — read as directional, not controlled.)
+**Claimed proof / metrics [demo]:** Org chart for a 10,000+-employee semiconductor company built "within an hour" vs ~5 hours manually. Sharing-mode anecdote: an enterprise rep validated an org chart live with a champion and added 10 new contacts on one call. (Caveat: comparisons as stated on stage, so read as directional, not controlled.)
 
-**Demo narrative (compressed) [demo]:** Showed a peer's account org chart: who's engaged, who isn't, champion/influencer/detractor labels; color coding reflects activity across the entire LangChain team. Suggested contacts come from personalized personas (the keywords they'd otherwise search in Sales Navigator), drag-and-dropped onto the map with lead enrichment (phones/emails) on add. Used in deal reviews and QBRs. Standout feature: customer-facing "sharing mode" — validate the org chart live with your champion. Also "warm connections": exec networks surfaced with a pre-written "ghost email" intro request.
+**Demo narrative (compressed) [demo]:** Showed a peer's account org chart: who's engaged, who isn't, champion/influencer/detractor labels; color coding reflects activity across the entire LangChain team. Suggested contacts come from personalized personas (the keywords they'd otherwise search in Sales Navigator), drag-and-dropped onto the map with lead enrichment (phones/emails) on add. Used in deal reviews and QBRs. Standout feature: customer-facing "sharing mode": validate the org chart live with your champion. Also "warm connections": exec networks surfaced with a pre-written "ghost email" intro request.
 
 **Pricing model [site]:** Sales-led / demo-gated; no pricing page.
 
 **MCP / integration posture [demo][site]:** Salesforce, Gong, email, calendar connectors [demo]; data sources on site add LinkedIn. No MCP/Claude mention on homepage [site].
 
-**Funding [site]:** Not found — likely early.
+**Funding [site]:** Not found (likely early).
 
-**Demo vs website:** Aligned; the demo's sharing-mode moment goes beyond anything the homepage currently promises. Thematic neighbor: The Swarm (relationship data) — but Centralize is deal-scoped where The Swarm is network-scoped.
+**Demo vs website:** Aligned; the demo's sharing-mode moment goes beyond anything the homepage currently promises. Thematic neighbor: The Swarm (relationship data), but Centralize is deal-scoped where The Swarm is network-scoped.

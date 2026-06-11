@@ -1,6 +1,6 @@
-# Tool Index — One-Page Triage Table
+# Tool Index: One-Page Triage Table
 
-The fast comparison view across all 22 tools: cluster, pricing posture, MCP availability, and who demoed it, grouped by the job-to-be-done clusters in [`../patterns/adjacency-map.md`](../patterns/adjacency-map.md). Every cell is drawn from this pack only — each tool name links to its `tools/{slug}.md` file for the full provenance-tagged detail. No rankings; row order within a cluster follows the adjacency map.
+The fast comparison view across all 22 tools: cluster, pricing posture, MCP availability, and who demoed it, grouped by the job-to-be-done clusters in [`../patterns/adjacency-map.md`](../patterns/adjacency-map.md). Every cell is drawn from this pack only. Each tool name links to its `tools/{slug}.md` file for the full provenance-tagged detail. No rankings; row order within a cluster follows the adjacency map.
 
 | Tool | Domain | Cluster (job-to-be-done) | Pricing (website-sourced) | MCP | Demoing customer |
 |---|---|---|---|---|---|
@@ -27,4 +27,4 @@ The fast comparison view across all 22 tools: cluster, pricing posture, MCP avai
 | [Avarra](avarra.md) | avarra.ai | Team capability | sales-led; no pricing page | no (not captured) | Paychex |
 | [Smoke Signals](smoke-signals.md) | smokesignals.ai | Team capability | sales-led productized service; Build $14,999/mo (3-mo minimum) | no (Claude Code appears in site diagram, no MCP wording) | TitanX |
 
-Notes: MCP column reads **stage** (shown/stated in the demo), **site** (on the vendor's public website as of 2026-06-10), or **no** (not found in either source). Ruby and Swan each straddle two clusters in the adjacency map and are listed once here. All pricing is website-sourced as of 2026-06-10 — none was stated on stage.
+Notes: MCP column reads **stage** (shown/stated in the demo), **site** (on the vendor's public website as of 2026-06-10), or **no** (not found in either source). Ruby and Swan each straddle two clusters in the adjacency map and are listed once here. All pricing is website-sourced as of 2026-06-10; none was stated on stage.

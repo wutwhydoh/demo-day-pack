@@ -10,7 +10,7 @@
 
 **Claimed proof / metrics [demo]:** No numbers. "Huge, huge time saver for our sales team. They're obsessed with it. I've never launched a tool before that our sales team has actually wanted to use."
 
-**Demo narrative (compressed) [demo]:** Showed their first trigger — website-visitor intelligence routed by customer/prospect/existing-HubSpot-deal status; Swan layers Syft Data's website identification (another vendor demoing the same day). Standout moment: she updated Swan's "writing outreach" skill by telling Swan to revise it from her accumulated feedback — Swan proposed edits and applied them itself. Reps never log in: everything surfaces in Slack threads (alert → drafted email → HubSpot updated → replies handled in-thread). Swan also proactively asked overnight whether to re-enrich an account after a repeat visit. Plus chat-as-thought-partner, browsable workflow templates, and "build my next play" recommendations.
+**Demo narrative (compressed) [demo]:** Showed their first trigger: website-visitor intelligence routed by customer/prospect/existing-HubSpot-deal status; Swan layers Syft Data's website identification (another vendor demoing the same day). Standout moment: she updated Swan's "writing outreach" skill by telling Swan to revise it from her accumulated feedback. Swan proposed edits and applied them itself. Reps never log in: everything surfaces in Slack threads (alert → drafted email → HubSpot updated → replies handled in-thread). Swan also proactively asked overnight whether to re-enrich an account after a repeat visit. Plus chat-as-thought-partner, browsable workflow templates, and "build my next play" recommendations.
 
 **Pricing model [site]:** PLG self-serve, public pricing: Solo $50/mo (200 credits) · Starter $200/mo · Growth $419/mo · Scale custom; free trial; extra seats $20/mo.
 
@@ -18,4 +18,4 @@
 
 **Funding [site]:** Not found.
 
-**Demo vs website:** Aligned — "AI GTM engineer" is the identical phrase on stage and in the site H1.
+**Demo vs website:** Aligned: "AI GTM engineer" is the identical phrase on stage and in the site H1.

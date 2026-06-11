@@ -1,8 +1,8 @@
 # WhiteWhale
 
-**Demo #9 of 22** · Presenter (as publicly stated on stage): Tom Grainger, founder of **Advanced Client** (advancedclient.io — a GTM agency; uses WhiteWhale for itself and its clients) [demo] · Domain: **getwhitewhale.com** (verified; formerly BirdDog — homepage banner: "BirdDog is now WhiteWhale") [site]
+**Demo #9 of 22** · Presenter (as publicly stated on stage): Tom Grainger, founder of **Advanced Client** (advancedclient.io, a GTM agency; uses WhiteWhale for itself and its clients) [demo] · Domain: **getwhitewhale.com** (verified; formerly BirdDog. Homepage banner: "BirdDog is now WhiteWhale") [site]
 
-**Presenter context:** Tom runs Advanced Client, a GTM agency that uses WhiteWhale for itself and across client engagements — an agency-operator's vantage, spanning multiple deployments rather than one.
+**Presenter context:** Tom runs Advanced Client, a GTM agency that uses WhiteWhale for itself and across client engagements: an agency-operator's vantage, spanning multiple deployments rather than one.
 
 **Positioning as stated [demo]:** "WhiteWhale basically is a signal layer that sits directly, natively on top of the CRM and within Clay as well." Problem: "Reps are spending way too much time doing manual research on LinkedIn Sales Navigator — stressed out, wasting their day and just not producing revenue."
 
@@ -16,8 +16,8 @@
 
 **Pricing model [site]:** PLG self-serve, public pricing: Signals Starter $200/mo · Growth $500/mo · Team custom. Free signal preview, no credit card; flat fee per account with unlimited users.
 
-**MCP / integration posture [demo][site]:** Clay-native, CRM bidirectional [demo]. Explicit MCP integration on site — "MCP/Claude" listed with a dedicated /integrations/mcp page; also HubSpot, Salesforce, Slack, Teams, Clay, API [site].
+**MCP / integration posture [demo][site]:** Clay-native, CRM bidirectional [demo]. Explicit MCP integration on site: "MCP/Claude" listed with a dedicated /integrations/mcp page; also HubSpot, Salesforce, Slack, Teams, Clay, API [site].
 
 **Funding [site]:** Not found.
 
-**Demo vs website:** Aligned — and notably *signals-first* positioning on a day when several other vendors positioned against signals. WhiteWhale's answer: every ranked signal carries linked, quoted sources and a "why now" story.
+**Demo vs website:** Aligned. The *signals-first* positioning stands out on a day when several other vendors positioned against signals. WhiteWhale's answer: every ranked signal carries linked, quoted sources and a "why now" story.

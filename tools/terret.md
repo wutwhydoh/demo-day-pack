@@ -1,6 +1,6 @@
 # Terret
 
-**Demo #3 of 22** · Presenter (as publicly stated on stage): Matt Durazzani, global revenue operations lead at a legal-software company (name withheld — not reliably captured in the transcript; verification attempted post-event without success) [demo] · Domain: **terret.ai** (verified; formerly BoostUp.ai) [site]
+**Demo #3 of 22** · Presenter (as publicly stated on stage): Matt Durazzani, global revenue operations lead at a legal-software company (name withheld: not reliably captured in the transcript; verification attempted post-event without success) [demo] · Domain: **terret.ai** (verified; formerly BoostUp.ai) [site]
 
 **Positioning as stated [demo]:** Great tools individually, but fragmented: "You have your CRMs, you have the call records, you have great analytics… the part that is missing is how do you bring them all together." "Nobody has answered the one piece that everybody's missing." "It's the first time in my career that I had a platform that moved beyond what everybody else offers."
 
@@ -18,4 +18,4 @@
 
 **Funding [site]:** Investors listed on company page: Canaan, NGP Capital, Emergent Ventures, BGV (BoostUp.ai lineage). Exact current stage not confirmed.
 
-**Demo vs website:** Aligned on substance — the demo's "action engine" phrase is literally the site's headline. The rebrand (BoostUp.ai → Terret) is recent; app login still lives at app.boostup.ai.
+**Demo vs website:** Aligned on substance: the demo's "action engine" phrase is literally the site's headline. The rebrand (BoostUp.ai → Terret) is recent; app login still lives at app.boostup.ai.

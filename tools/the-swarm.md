@@ -1,8 +1,8 @@
 # The Swarm
 
-**Demo #11 of 22** · Presenter (as publicly stated on stage): Richard Purcell, marketing at **Build** (customer; construction finance — "we sell to an industry that's very relationship based"). Three years using the product — the longest customer tenure cited all day [demo] · Domain: **theswarm.com** (verified) [site]
+**Demo #11 of 22** · Presenter (as publicly stated on stage): Richard Purcell, marketing at **Build** (customer; construction finance: "we sell to an industry that's very relationship based"). Three years using the product, the longest customer tenure cited all day [demo] · Domain: **theswarm.com** (verified) [site]
 
-**Positioning as stated [demo]:** "How do you scale referrals? Because referrals are the highest performing channel across verticals, but they're the least predictable." "The way I think about relationship mapping is a 360 view of your network" — beyond LinkedIn connections ("no one knows their LinkedIn connections, and there's no context on who you're connected to") and investors.
+**Positioning as stated [demo]:** "How do you scale referrals? Because referrals are the highest performing channel across verticals, but they're the least predictable." "The way I think about relationship mapping is a 360 view of your network": beyond LinkedIn connections ("no one knows their LinkedIn connections, and there's no context on who you're connected to") and investors.
 
 **Website says (as of 2026-06-10) [site]:** Headline: "The Relationship Intelligence Leader." Subhead: "The Swarm curates a rich dataset of 500M profiles with daily job changes, 50M companies with fundraising data, and a unique relationship mapping AI engine for builders and investors." CTAs: "Get started" / "Talk to sales" / a header badge reading "Available on Claude." Novelty section: "Not sure? Talk to our new AI CEO."
 
@@ -14,7 +14,7 @@
 
 **Pricing model [site]:** PLG self-serve, public pricing: Free (up to 10 connectors) · Premium $99/mo or $2,990/yr (12,000 API credits, 14-day trial) · Enterprise custom.
 
-**MCP / integration posture [demo][site]:** Swarm MCP used inside Claude live on stage — the most explicit Claude-as-orchestration-layer demo of the event [demo]. MCP is a named integration in the site nav alongside HubSpot, Attio, Clay, Airtable, Relay, Databar, Cargo; "Available on Claude" badge [site].
+**MCP / integration posture [demo][site]:** Swarm MCP used inside Claude live on stage, the most explicit Claude-as-orchestration-layer demo of the event [demo]. MCP is a named integration in the site nav alongside HubSpot, Attio, Clay, Airtable, Relay, Databar, Cargo; "Available on Claude" badge [site].
 
 **Funding [site]:** $8M round announced (HubSpot Ventures, Motivate Ventures, TRAC VC); ~$9.9M total per Crunchbase; earlier $4M seed led by 500 Global.
 

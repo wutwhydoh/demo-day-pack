@@ -1,6 +1,6 @@
-# Prompt Menu — For Founders & Operators Building GTM Tech
+# Prompt Menu: For Founders & Operators Building GTM Tech
 
-Load this pack into your AI tool (Claude, ChatGPT, Cursor — anything that reads files), then paste a prompt. Replace bracketed parts.
+Load this pack into your AI tool (Claude, ChatGPT, Cursor, or anything that reads files), then paste a prompt. Replace bracketed parts.
 
 ## 1. Homepage vs. the patterns that landed
 
@@ -8,7 +8,7 @@ Load this pack into your AI tool (Claude, ChatGPT, Cursor — anything that read
 
 ## 2. Positioning-consistency check (demo-said vs. website-says)
 
-> Read `patterns/vocabulary-map.md` (the demo-vs-website gaps section) and 3–4 files in `tools/` for products near mine. Several vendors demoed capabilities their sites don't mention, or used different product names on stage than online. Here's what I say in live demos: [paste your demo talk track] and here's my site copy: [paste]. Find my gaps — what am I proving live that my site doesn't claim, and what does my site claim that I can't show in 3 minutes?
+> Read `patterns/vocabulary-map.md` (the demo-vs-website gaps section) and 3–4 files in `tools/` for products near mine. Several vendors demoed capabilities their sites don't mention, or used different product names on stage than online. Here's what I say in live demos: [paste your demo talk track] and here's my site copy: [paste]. Find my gaps: what am I proving live that my site doesn't claim, and what does my site claim that I can't show in 3 minutes?
 
 ## 3. Adjacency & partner scan
 
@@ -20,7 +20,7 @@ Load this pack into your AI tool (Claude, ChatGPT, Cursor — anything that read
 
 ## 5. Customer-language mining plan
 
-> Macro-pattern #3 says the best category language at this event was coined by customers, not vendors. Read it, then give me a concrete plan to mine my own customer calls for the equivalent of "the GitHub of our ICP" — what to look for, how to test a candidate phrase, and how to put a customer's mouth (not mine) on it.
+> Macro-pattern #3 says the best category language at this event was coined by customers, not vendors. Read it, then give me a concrete plan to mine my own customer calls for the equivalent of "the GitHub of our ICP": what to look for, how to test a candidate phrase, and how to put a customer's mouth (not mine) on it.
 
 ## 6. Three-minute demo design
 
